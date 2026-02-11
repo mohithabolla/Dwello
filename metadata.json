@@ -1,0 +1,8 @@
+{
+  "name": "Dwello – AI Construction Planning",
+  "description": "An AI-powered construction planning and interactive showcase platform for builders, architects, and clients.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
